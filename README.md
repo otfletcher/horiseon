@@ -8,7 +8,7 @@ Make Horiseon's website more accessible and fixed some bugs.
 * CSS
 
 ## Website
-
+https://otfletcher.github.io/horiseon/
 
 # Contribution
 Olivia Fletcher
